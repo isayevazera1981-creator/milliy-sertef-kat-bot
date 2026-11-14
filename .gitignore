@@ -1,0 +1,15 @@
+# Environment variables (секреты и токены)
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary user files
+downloads/
+generated_docs/
+
+# OS files
+.DS_Store
+Thumbs.db
